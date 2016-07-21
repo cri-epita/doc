@@ -10,4 +10,5 @@ pages:
   - Procédures:
     - Changement de mot de passe: 'change_password.md'
     - 'redump.md'
+    - Connexion à iit-wifi sous Windows: 'iit-wifi_windows.md'
   - Contact:  'contact.md'
